@@ -28,7 +28,7 @@ I'm continuously learning, building projects that push me into new territory, an
 
 
 ### 🚀 Featured Project
-**[Commute Dashboard](link-to-your-repo)** — I got tired of manually checking Google Maps every morning to figure out when I needed to leave. So I built the solution: a Python dashboard that pulls real-time travel data and sends an alert before I need to walk out the door. The goal was simple but the constraints were real — reliable data handling, clean notification logic, and secure API credential management from day one.
+**[Commute Dashboard](https://github.com/thor-manchul/Commute-Dashboard)** — I got tired of manually checking Google Maps every morning to figure out when I needed to leave. So I built the solution: a Python dashboard that pulls real-time travel data and sends an alert before I need to walk out the door. The goal was simple but the constraints were real — reliable data handling, clean notification logic, and secure API credential management from day one.
 
 `Python` `API Integration` `Automated Notifications` · *Active development*
 
