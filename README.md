@@ -6,7 +6,7 @@ I’m a Computer Science student at the University of Calgary, who's passionate 
 I believe every technical choice — from a data structure to a framework — should have a clear "why" behind it, established before a line of code is written. 
 I'm continuously learning, building projects that push me into new territory, and developing a security-first mindset with every project I develop.
 
-<a href="https://www.linkedin.com/in/thor-manchul-5857213a6/" target="blank">
+<a href="https://www.linkedin.com/in/thor-manchul/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="22" width="30" />
 </a>
 
